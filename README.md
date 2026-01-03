@@ -50,7 +50,4 @@ Then visit: http://127.0.0.1:8000
 -License-
 This project is released under the following conditions:
 
-Not permitted for commercial use.
-You may modify, study, and distribute it freely for personal or educational purposes.
-Any derivative work must credit the original author and link back to this repository.
-Reuploading or reselling this project as-is is not allowed.
+Use and modify if you want)
